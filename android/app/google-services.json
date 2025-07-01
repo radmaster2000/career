@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747627310556",
+    "project_id": "career-launcher-4a0e5",
+    "storage_bucket": "career-launcher-4a0e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747627310556:android:2dbff9c4e3a52b9cfe7319",
+        "android_client_info": {
+          "package_name": "com.adro.career"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrjvYKGxyMKEz_GRHTl_FqJeJbttwCnwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

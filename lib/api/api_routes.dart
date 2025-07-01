@@ -1,0 +1,10 @@
+final otpurl="http://proinnovativesoftware.com/1Mg/api/Login/OTP/";
+final baseUrl="http://10.0.2.2:3000/";
+final loginUrl="${baseUrl}api/auth/login";
+final signUpUrl="${baseUrl}api/auth/signup";
+final profileDataUrl="${baseUrl}api/profile/get_profile/";
+final liveCoursesDataUrl="${baseUrl}api/courses/getLiveCourses/";
+final NotesDataUrl="${baseUrl}api/notes/getNotes";
+final NotesUploadUrl="${baseUrl}api/notes/upload";
+final getAllMentorsUrl="${baseUrl}api/mentor/getAllMentors/";
+final createLiveClassUrl="${baseUrl}api/courses/createLiveClass/";
